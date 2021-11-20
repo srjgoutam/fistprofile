@@ -1,0 +1,132 @@
+@media screen and (max-width : 700px){
+    main{
+        max-width: 100vw;
+    }
+    header{
+        padding: 1px;
+        top: 0px;
+    }
+    .head-left{
+        width: 50%;
+    }
+    .name{
+        font-size: 14px;
+      
+    }
+    .photo{
+        height: 150px;
+    }
+    .cv-download{
+        padding:5px 10px;
+        font-size: 12px;
+    }
+    
+    .main-content{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .main-content-left{
+        width: 100vw;
+        margin-top: 50px;
+    }
+    
+    .hello{
+        font-size: 24px;
+        width: 100vw;
+        text-align: center;
+    }
+    .intro-name{
+    font-size: 24px;
+    width: 100vw;
+    text-align: center;
+    }
+    .info{
+        margin: 0px auto;
+      width: 50%;
+      margin-top: 30px;
+    }
+    .skills{
+        flex-direction: column;
+    }
+    .experience{
+        flex-direction: column;
+    }
+    .main-info{
+        
+        width: 100vw;
+    }
+    .more-about{
+    margin: 0px;   
+    padding: 20px; 
+    }
+    .about-info-text{
+        padding: 20px;
+    }
+    .about-text{
+        font-size: 24px;
+        margin: 0px;
+        padding: 20px;
+    }
+    .con-w-me{
+        text-align: center;
+        
+    }
+    .connect-div{
+        flex-direction: column;
+        justify-content: center;
+    }
+    .social-linka{
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    justify-content: space-evenly;
+    }
+    .social-links{
+        font-size: 12px;
+        padding: 5px;
+        margin-top: 20px;
+    }
+    .skills-txt{
+        font-size: 24px;
+        margin: 0px;
+        padding: 20px;
+    }
+    .skills-col1{
+    margin: 0px;
+    padding: 20px;
+    width: 80%;
+    }
+    
+    
+    .skills-col2{
+    margin: 0px;
+    width: 80%;   
+    padding: 20px;
+    }
+    
+    .experience-txt{
+        font-size: 24px;
+        margin: 0px;
+        padding: 20px;
+    }
+    .experience-col1{
+        margin: 0px;
+        padding: 20px;
+    width: 80%;   
+        }
+        
+        .experience-col2{
+        margin: 0px;
+    width: 80%;      
+        padding: 20px;
+        }
+    
+        .experience-heading{
+            font-size: 16px;
+        }
+    .experience-details{
+        width: 100%;
+    }
+    
+    }
